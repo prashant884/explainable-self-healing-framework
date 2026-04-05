@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Explainable Self-Healing Suite">
+    <test name="Login Test">
+        <classes>
+            <class name="com.prashant.framework.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
